@@ -1,18 +1,24 @@
 
 🏠 Project : Ahmedabad House Price Prediction 🏠
+
+
 -I am working with Ahmedabad real estate dataset to predict 
 house prices accurately using Machine Learning.
 
 -This project demonstrates my ability to clean, analyze, and 
 build a real ML model while deploying it as a live web application.
 
+
 📌 Project Overview :
+
 -This project predicts house prices in Ahmedabad using real 
 estate data. I applied data cleaning, exploratory data analysis, 
 feature encoding, and XGBoost regression to build an accurate 
 price prediction model with a live Streamlit web app.
 
+
 🎯 Project Objectives :
+
 -Predict house prices based on location, BHK, area and more
 
 -Handle missing values and encode categorical features properly
@@ -25,7 +31,9 @@ price prediction model with a live Streamlit web app.
 
 -Deploy a live interactive web app for price prediction
 
+
 🏆 Key Features :
+
 -Data preprocessing & missing value handling with Mode
 
 -EDA with price distribution, boxplots and correlation analysis
@@ -46,7 +54,9 @@ price prediction model with a live Streamlit web app.
 
 -Live Streamlit app with interactive price predictor and chart
 
+
 📊 Model Performance :
+
 -Algorithm : XGBoost Regressor
 
 -R² Score : 0.95
